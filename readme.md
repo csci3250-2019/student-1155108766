@@ -10,9 +10,10 @@
 |~~Theoretical Computer Science~~|
 |~~Data Analytics~~|
 
-*Data Communication
-*Compupter Networks
-*Computer and Network Security
+__What I will learn__
+* Data Communication
+* Compupter Networks
+* Computer and Network Security
 
 ### Are you sure to stream with these?
 - [x] Yes
@@ -21,4 +22,13 @@
 - [ ] CSCI4180
 - [ ] CSCI4430
 
+|Here are the screenshot|
+|-----------------------|
+|![screenshot1](/screenshot1.png)|
+|-----------------|
+|![screenshot2](/screenshot2.png)|
+
+
+
 [Go to the top](#readme)
+
