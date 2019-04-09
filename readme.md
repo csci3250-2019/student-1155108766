@@ -24,9 +24,9 @@ __What I will learn__
 
 |Here are the screenshot|
 |-----------------------|
-|![screenshot1](/screenshot1.png)|
+|![screenshot1](/screenshot1.PNG)|
 |-----------------|
-|![screenshot2](/screenshot2.png)|
+|![screenshot2](/screenshot2.PNG)|
 
 
 
