@@ -1,7 +1,7 @@
-## Hello everyone, I am Tom
+## Hello everyone, I am Tom :blush: :blush: :blush:
 # I am affiliated with Chung Chi College
 
-|What 123 I want to stream with?|
+|What I want to stream with?|
 |-------------------------------|
 |~~Intelligence Science~~|
 |~~Database & Information Systems~~|
@@ -10,8 +10,15 @@
 |~~Theoretical Computer Science~~|
 |~~Data Analytics~~|
 
+*Data Communication
+*Compupter Networks
+*Computer and Network Security
 
-| 表头1  | 表头2|
-| ---------- | -----------|
-| 表格单元   | 表格单元   |
-| 表格单元   | 表格单元   |
+### Are you sure to stream with these?
+- [x] Yes
+
+### Required Courses (I have not started yet)
+- [ ] CSCI4180
+- [ ] CSCI4430
+
+[Go to the top](#readme)
